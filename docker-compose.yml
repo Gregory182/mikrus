@@ -12,7 +12,7 @@ services:
       context: ./nginx
       # dockerfile: ./nginx/Dockerfile
     ports:
-      - "8080:80"
+      - "80:80"
     depends_on:
       - webapp
     networks:
