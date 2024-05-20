@@ -1,0 +1,15 @@
+body{
+    background-color: #b68585;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 1220px;
+}
+
+.text{
+    color: blue;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
